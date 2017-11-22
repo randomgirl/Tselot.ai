@@ -1,0 +1,2 @@
+# Tselot.ai
+PrayerBot.ai
